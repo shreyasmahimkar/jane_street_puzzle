@@ -20,3 +20,6 @@ env/
 
 # Local data
 historical_data_and_pieces/
+
+# Model Files
+*.pt
